@@ -36,7 +36,7 @@ Used `churn-bigml-80.csv` and `churn-bigml-20.csv` (public telecom churn dataset
 ## 📊 ROC Curve and Threshold Tuning
 
 ![ROC Curve](download.png)
-![Precision-Recall vs Threshold](download (1).png)
+![Precision-Recall vs Threshold](download(1).png)
 
 ## 🛠️ Tools Used
 
